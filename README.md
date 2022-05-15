@@ -1,7 +1,8 @@
 ### Hi there 👋
 *i'm some idiot on the internet who writes some code sometimes*
 
-![d](https://github-readme-stats.vercel.app/api/top-langs/?username=lisqu16&layout=compact&theme=gruvbox)
+![d](https://github-readme-stats.vercel.app/api/?username=lisqu16&layout=compact&theme=gruvbox&count_private=true&show_icons=true)
+![d](https://github-readme-stats.vercel.app/api/top-langs/?username=lisqu16&layout=compact&theme=gruvbox&langs_count=10)
 
 
 <!--
