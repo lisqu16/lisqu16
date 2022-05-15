@@ -1,4 +1,8 @@
 ### Hi there 👋
+*i'm some idiot on the internet who writes some code sometimes*
+
+![d](https://github-readme-stats.vercel.app/api/top-langs/?username=lisqu16&layout=compact&theme=gruvbox)
+
 
 <!--
 **lisqu16/lisqu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
